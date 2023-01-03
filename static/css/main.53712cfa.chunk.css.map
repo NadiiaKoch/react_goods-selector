@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,OACE,YAAA,CAGF,WACE,YAAA,CACA,oBAAA,CAGF,OACE,2BAAA","file":"main.53712cfa.chunk.css","sourcesContent":["iframe {\n  display: none;\n}\n\n.container {\n  display: grid;\n  justify-items: center;\n}\n\n.table {\n  border: thick double #32a1ce;\n}\n"]}
